@@ -51,7 +51,7 @@ Your project will be automatically submitted when you push to your GitHub Classr
 - [Node.js Documentation](https://nodejs.org/en/docs/)
 - [GitHub Classroom Guide](https://docs.github.com/en/education/manage-coursework-with-github-classroom)
 -
-- **PROJECT LINK: https://elkanas.netlify.app/**
+**PROJECT LINK: https://elkanas.netlify.app/**
 **src/types/index.ts**
  export interface Patient {
   id: string;
